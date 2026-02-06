@@ -3,8 +3,8 @@ import './App.css'
 function App() {
   return (
     <>
-    <h1 className='mb-4'>Shivam Tiwari</h1>
-    <p>Android Developer</p>
+    <h1 className='mb-4'>Ashif Kadri</h1>
+    <p className='text-green-700'>Android & Flutter Developer</p>
     </>
   )
 }

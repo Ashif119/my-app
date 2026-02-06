@@ -3,8 +3,8 @@ import './App.css'
 function App() {
   return (
     <>
-    <h1 className='mb-4'>Hello World</h1>
-    <p>Welcome To My World</p>
+    <h1 className='mb-4'>Shivam Tiwari</h1>
+    <p>Android Developer</p>
     </>
   )
 }

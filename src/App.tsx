@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <h1 className='mb-4'>Ashif Kadri</h1>
-    <p className='text-green-700'>Android & Flutter Developer</p>
+    <p className='text-green-700 mb-4'>Android & Flutter Developer</p>
     <Button/>
     </>
   )

@@ -1,6 +1,10 @@
+type ButtonProps ={
+    text: String;
+    onClick?: ()=> void;
 
+}
 
-const Button = ({text = "Submit"})=>{
-    return <button className="bg-blue-500" >{text}</button>
+const Button = ({text , onClick}:ButtonProps)=>{
+    return <button className="bg-blue-500" onClick={onClick}>{text}</button>
 }
 export default Button
